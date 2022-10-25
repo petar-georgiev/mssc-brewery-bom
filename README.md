@@ -1,0 +1,2 @@
+# MSSC BREWERY POM
+
